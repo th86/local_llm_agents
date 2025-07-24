@@ -10,7 +10,7 @@ import pandas as pd
 
 llm = ChatOllama(model="llama3.2") #model must support tool calling. deepseek-r1 doesn't work
 
-df = pd.read_csv("C:\\Users\\ouyangt\\Documents\\tcga_metadata.csv")
+df = pd.read_csv("C:\\Users\\user\\Documents\\tcga_metadata.csv")
 
 # Tool 
 
