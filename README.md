@@ -2,6 +2,8 @@
 
 Set up locally hosted LLM agent stack. No subscription and no data leak.
 
+tabular data analytics agent example `agent_analytics_tcga.py`
+
 ## Windows
 
 Install python from App Store
@@ -88,7 +90,7 @@ C:\Users\ouyangt>ollama run gemma3:4b
 
 * [LangChain Document Loader PDF](https://python.langchain.com/docs/how_to/document_loader_pdf/), [Word](https://python.langchain.com/docs/integrations/document_loaders/microsoft_word/), [Web](https://python.langchain.com/docs/how_to/document_loader_web/)
 
-* [Pandas/Tabular data](https://python.langchain.com/api_reference/experimental/agents/langchain_experimental.agents.agent_toolkits.pandas.base.create_pandas_dataframe_agent.html)
+* [Pandas/Tabular data](https://python.langchain.com/api_reference/experimental/agents/langchain_experimental.agents.agent_toolkits.pandas.base.create_pandas_dataframe_agent.html) or [here](https://python.langchain.com/docs/how_to/sql_csv/)
 
 * [Local SQL database](https://danielroelfs.com/posts/querying-databases-using-langchain-and-ollama/)
 
