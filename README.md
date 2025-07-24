@@ -10,7 +10,7 @@ Install python from App Store
 
 Install [Ollama](https://ollama.com/) and pull models in CMD
 
-`ollama pull gemma3:4b` or `deepseek-r1`
+`ollama pull gemma3:4b` (multimodal) or `deepseek-r1` (reasoning) or `llama3.2` (tool)
 
 ```
 pip install ollama
