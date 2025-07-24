@@ -94,6 +94,6 @@ C:\Users\ouyangt>ollama run gemma3:4b
 
 * [Local SQL database](https://danielroelfs.com/posts/querying-databases-using-langchain-and-ollama/)
 
-* [RAG](https://www.elastic.co/search-labs/blog/local-rag-agent-elasticsearch-langgraph-llama3) 
+* [RAG1](https://www.elastic.co/search-labs/blog/local-rag-agent-elasticsearch-langgraph-llama3) , [RAG2](https://www.singlestore.com/blog/build-a-local-ai-agent-python-ollama-langchain-singlestore/)
 
 
