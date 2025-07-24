@@ -88,6 +88,8 @@ C:\Users\ouyangt>ollama run gemma3:4b
 
 * [LangChain Document Loader PDF](https://python.langchain.com/docs/how_to/document_loader_pdf/), [Word](https://python.langchain.com/docs/integrations/document_loaders/microsoft_word/), [Web](https://python.langchain.com/docs/how_to/document_loader_web/)
 
+* [Pandas/Tabular data](https://python.langchain.com/api_reference/experimental/agents/langchain_experimental.agents.agent_toolkits.pandas.base.create_pandas_dataframe_agent.html)
+
 * [Local SQL database](https://danielroelfs.com/posts/querying-databases-using-langchain-and-ollama/)
 
 * [RAG](https://www.elastic.co/search-labs/blog/local-rag-agent-elasticsearch-langgraph-llama3) 
