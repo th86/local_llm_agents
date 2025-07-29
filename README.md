@@ -93,9 +93,10 @@ import sys
 sys.path.append("../")
 from biomni.agent import A1
 
-agent = A1(path='./', llm='llama3.2')
+agent = A1(path='./', llm='deepseek-r1:latest')
 agent.go("Predict ADMET properties for this compound: C1=CC=C(C=C1)C=O")
 ```
+Note llama 3.2 does not return useful results.
 
 ## TODO
 
