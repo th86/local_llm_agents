@@ -84,7 +84,7 @@ C:\Users\ouyangt>ollama run gemma3:4b
 
 
 ## Biomni on locally hosted LLM
-[Biomni] is a general purpose biomedical agent.
+[Biomni](https://github.com/snap-stanford/Biomni) is a general purpose biomedical agent.
 
 Install the python package `pip install biomni` and the dependencies (langraph, openai, aws, google gen ai). This may take more than half of an hour.
 
