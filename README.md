@@ -82,6 +82,21 @@ C:\Users\ouyangt>ollama run gemma3:4b
 >>> what is in the picture C:\Users\user\Documents\Smiley_Face.jpg
 ```
 
+
+## Biomni on locally hosted LLM
+[Biomni] is a general purpose biomedical agent.
+
+Install the python package `pip install biomni` and the dependencies (langraph, openai, aws, google gen ai). This may take more than half of an hour.
+
+```
+import sys
+sys.path.append("../")
+from biomni.agent import A1
+
+agent = A1(path='./', llm='llama3.2')
+agent.go("Predict ADMET properties for this compound: C1=CC=C(C=C1)C=O")
+```
+
 ## TODO
 
 * [Browser Use local setup](https://docs.browser-use.com/development/local-setup)
