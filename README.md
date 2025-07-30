@@ -20,7 +20,7 @@ pip install ollama
 pip install -qU langchain_ollama
 ```
 
-Should use `uv` to manage the environment
+Should use [miniforge](https://github.com/conda-forge/miniforge) to manage the environment
 
 ## Python
 
