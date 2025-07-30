@@ -2,7 +2,8 @@
 
 Set up locally hosted LLM agent stack. No subscription and no data leak.
 
-tabular data analytics agent example `agent_analytics_tcga.py`
+- Tabular data analytics agent example `agent_analytics_tcga.py`
+- RAG example `rag.py`
 
 ## Windows
 
@@ -81,7 +82,6 @@ Note: Ollama CLI use
 C:\Users\ouyangt>ollama run gemma3:4b
 >>> what is in the picture C:\Users\user\Documents\Smiley_Face.jpg
 ```
-
 
 ## Biomni on locally hosted LLM
 [Biomni](https://github.com/snap-stanford/Biomni) is a general purpose biomedical agent.
