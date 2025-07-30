@@ -3,7 +3,9 @@
 Set up locally hosted LLM agent stack. No subscription and no data leak.
 
 - Tabular data analytics agent example `agent_analytics_tcga.py`
-- RAG example `rag.py`
+- RAG example `rag.py`, based on [RAG1](https://www.elastic.co/search-labs/blog/local-rag-agent-elasticsearch-langgraph-llama3) , [RAG2](https://www.singlestore.com/blog/build-a-local-ai-agent-python-ollama-langchain-singlestore/) , [RAG3](https://dev.to/mohsin_rashid_13537f11a91/rag-with-ollama-1049)
+
+
 
 ## Windows
 
@@ -109,7 +111,3 @@ Note llama 3.2 does not return useful results.
 * [Pandas/Tabular data](https://python.langchain.com/api_reference/experimental/agents/langchain_experimental.agents.agent_toolkits.pandas.base.create_pandas_dataframe_agent.html) or [here](https://python.langchain.com/docs/how_to/sql_csv/)
 
 * [Local SQL database](https://danielroelfs.com/posts/querying-databases-using-langchain-and-ollama/)
-
-* [RAG1](https://www.elastic.co/search-labs/blog/local-rag-agent-elasticsearch-langgraph-llama3) , [RAG2](https://www.singlestore.com/blog/build-a-local-ai-agent-python-ollama-langchain-singlestore/) , [RAG3](https://dev.to/mohsin_rashid_13537f11a91/rag-with-ollama-1049)
-
-
