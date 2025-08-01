@@ -111,3 +111,5 @@ llama3.2:latest works, deepseek does not return useful results.
 * [Pandas/Tabular data](https://python.langchain.com/api_reference/experimental/agents/langchain_experimental.agents.agent_toolkits.pandas.base.create_pandas_dataframe_agent.html) or [here](https://python.langchain.com/docs/how_to/sql_csv/)
 
 * [Local SQL database](https://danielroelfs.com/posts/querying-databases-using-langchain-and-ollama/)
+
+* [qwen3-coder](https://ollama.com/library/qwen3-coder) coding agent
