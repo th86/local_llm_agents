@@ -112,8 +112,10 @@ llama3.2:latest works, deepseek does not return useful results.
 
 * [Local SQL database](https://danielroelfs.com/posts/querying-databases-using-langchain-and-ollama/)
 
-* [qwen3-coder](https://ollama.com/library/qwen3-coder) coding agent
+* [qwen3-coder](https://ollama.com/library/qwen3-coder) coding agent, [Ollamacode](https://github.com/tooyipjee/ollamacode)
 
 * [OpenManus](https://github.com/FoundationAgents/OpenManus)
 
 * [OpenAI gpt-oss](https://github.com/openai/gpt-oss)
+
+* [LM Studio](https://lmstudio.ai/)
