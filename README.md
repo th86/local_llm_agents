@@ -115,3 +115,5 @@ llama3.2:latest works, deepseek does not return useful results.
 * [qwen3-coder](https://ollama.com/library/qwen3-coder) coding agent
 
 * [OpenManus](https://github.com/FoundationAgents/OpenManus)
+
+* [OpenAI gpt-oss](https://github.com/openai/gpt-oss)
