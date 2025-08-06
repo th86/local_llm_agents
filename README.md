@@ -119,3 +119,9 @@ llama3.2:latest works, deepseek does not return useful results.
 * [OpenAI gpt-oss](https://github.com/openai/gpt-oss)
 
 * [LM Studio](https://lmstudio.ai/)
+
+### Tools
+
+* [Diffusers](https://github.com/huggingface/diffusers)
+
+* [ESM2](https://github.com/facebookresearch/esm), [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion), [Nebula](https://github.com/prescient-design/nebula)
