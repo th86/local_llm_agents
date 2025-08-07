@@ -122,6 +122,8 @@ llama3.2:latest works, deepseek does not return useful results.
   
 * [Open LLM on Colab](https://colab.research.google.com/github/deptofdefense/LLMs-at-DoD/blob/main/tutorials/Open_Source_LLMs_Getting_Started.ipynb), [Ollama on Colab with agents](https://levelup.gitconnected.com/ai-agents-tutorial-for-poor-people-with-google-colab-00efd588b87c), [Ollama on Colab portable](https://medium.com/@debashishrambhola/running-llm-on-google-colab-and-accessing-it-from-anywhere-a-setup-guide-f55d2240b8a9)
 
+* [Quantization on Colab](https://colab.research.google.com/drive/1rt318Ew-5dDw21YZx2zK2vnxbsuDAchH?usp=sharing) 
+
 ### Tools
 
 * [Diffusers](https://github.com/huggingface/diffusers)
