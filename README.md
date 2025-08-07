@@ -119,6 +119,8 @@ llama3.2:latest works, deepseek does not return useful results.
 * [OpenAI gpt-oss](https://github.com/openai/gpt-oss)
 
 * [LM Studio](https://lmstudio.ai/)
+  
+* [Open LLM on Colab](https://colab.research.google.com/github/deptofdefense/LLMs-at-DoD/blob/main/tutorials/Open_Source_LLMs_Getting_Started.ipynb), [Ollama on Colab with agents](https://levelup.gitconnected.com/ai-agents-tutorial-for-poor-people-with-google-colab-00efd588b87c), [Ollama on Colab portable](https://medium.com/@debashishrambhola/running-llm-on-google-colab-and-accessing-it-from-anywhere-a-setup-guide-f55d2240b8a9)
 
 ### Tools
 
