@@ -126,8 +126,9 @@ llama3.2:latest works, deepseek does not return useful results.
 
 * [Ollama on Raspberry Pi](https://pimylifeup.com/raspberry-pi-ollama/)
 
-*[nanocoder](https://github.com/Mote-Software/nanocoder)
+* [nanocoder](https://github.com/Mote-Software/nanocoder)
 
+* [llama.cpp](https://github.com/ggml-org/llama.cpp) supports all models in GGUF
 
 ### Tools
 
