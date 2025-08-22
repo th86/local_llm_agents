@@ -130,6 +130,8 @@ llama3.2:latest works, deepseek does not return useful results.
 
 * [llama.cpp](https://github.com/ggml-org/llama.cpp) supports all models in GGUF
 
+* [Unsloth](https://docs.unsloth.ai/get-started/unsloth-notebooks) notebooks for model fine tuning on Colab
+
 ### Tools
 
 * [Diffusers](https://github.com/huggingface/diffusers)
