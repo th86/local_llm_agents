@@ -15,7 +15,7 @@ Install python from App Store
 
 `brew install pyenv`
 
-Install [Ollama](https://ollama.com/) and pull models in CMD (add note about [LM Studio](https://lmstudio.ai/))
+Install [Ollama](https://ollama.com/) and pull models in CMD (add note about [LM Studio](https://lmstudio.ai/), [python SDK](https://lmstudio.ai/docs/python))
 
 `ollama pull gemma3:4b` (multimodal) or `deepseek-r1` (reasoning) or `llama3.2` (tool)
 
