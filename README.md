@@ -11,6 +11,10 @@ Set up locally hosted LLM agent stack. No subscription and no data leak.
 
 Install python from App Store
 
+## Mac
+
+`brew install pyenv`
+
 Install [Ollama](https://ollama.com/) and pull models in CMD
 
 `ollama pull gemma3:4b` (multimodal) or `deepseek-r1` (reasoning) or `llama3.2` (tool)
