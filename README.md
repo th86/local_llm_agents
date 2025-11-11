@@ -5,7 +5,7 @@ Set up locally hosted LLM agent stack. No subscription and no data leak.
 - Tabular data analytics agent example `agent_analytics_tcga.py`
 - RAG example `rag.py`, based on [RAG1](https://www.elastic.co/search-labs/blog/local-rag-agent-elasticsearch-langgraph-llama3) , [RAG2](https://www.singlestore.com/blog/build-a-local-ai-agent-python-ollama-langchain-singlestore/) , [RAG3](https://dev.to/mohsin_rashid_13537f11a91/rag-with-ollama-1049), [RAG4](https://ggozad.github.io/oterm/rag_example/)
 
-
+See [FreeAgent](https://github.com/th86/freeagent) for web-hosted LLM service and agent framework.
 
 ## Windows
 
